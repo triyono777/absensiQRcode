@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Absensi QR Code</string>
+    <string name="home">Home</string>
+    <string name="absen">Absen</string>
+    <string name="matkul">Matkul</string>
+    <string name="fragment_home">Fragment Home</string>
+    <string name="fragment_matkul">Fragment Matkul</string>
+    <string name="fragment_absen">Fragment Absen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
